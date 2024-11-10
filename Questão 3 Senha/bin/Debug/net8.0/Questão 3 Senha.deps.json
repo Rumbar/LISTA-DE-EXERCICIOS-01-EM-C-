@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Questão 3 Senha/1.0.0": {
+        "runtime": {
+          "Questão 3 Senha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Questão 3 Senha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

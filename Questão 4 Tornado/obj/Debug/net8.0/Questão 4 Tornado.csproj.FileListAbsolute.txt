@@ -1,0 +1,14 @@
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\bin\Debug\net8.0\Questão 4 Tornado.exe
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\bin\Debug\net8.0\Questão 4 Tornado.deps.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\bin\Debug\net8.0\Questão 4 Tornado.runtimeconfig.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\bin\Debug\net8.0\Questão 4 Tornado.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\bin\Debug\net8.0\Questão 4 Tornado.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\Questão 4 Tornado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\Questão 4 Tornado.AssemblyInfoInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\Questão 4 Tornado.AssemblyInfo.cs
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\Questão 4 Tornado.csproj.CoreCompileInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\Questão 4 Tornado.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\refint\Questão 4 Tornado.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\Questão 4 Tornado.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\Questão 4 Tornado.genruntimeconfig.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 4 Tornado\obj\Debug\net8.0\ref\Questão 4 Tornado.dll

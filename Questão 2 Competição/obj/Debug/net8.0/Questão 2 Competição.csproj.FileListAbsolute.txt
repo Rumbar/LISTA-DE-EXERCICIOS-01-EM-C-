@@ -1,0 +1,14 @@
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\bin\Debug\net8.0\Questão 2 Competição.exe
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\bin\Debug\net8.0\Questão 2 Competição.deps.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\bin\Debug\net8.0\Questão 2 Competição.runtimeconfig.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\bin\Debug\net8.0\Questão 2 Competição.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\bin\Debug\net8.0\Questão 2 Competição.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\Questão 2 Competição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\Questão 2 Competição.AssemblyInfoInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\Questão 2 Competição.AssemblyInfo.cs
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\Questão 2 Competição.csproj.CoreCompileInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\Questão 2 Competição.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\refint\Questão 2 Competição.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\Questão 2 Competição.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\Questão 2 Competição.genruntimeconfig.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 2 Competição\obj\Debug\net8.0\ref\Questão 2 Competição.dll

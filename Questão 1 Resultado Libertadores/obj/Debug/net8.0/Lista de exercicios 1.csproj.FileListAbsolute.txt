@@ -1,0 +1,14 @@
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\bin\Debug\net8.0\Lista de exercicios 1.exe
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\bin\Debug\net8.0\Lista de exercicios 1.deps.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\bin\Debug\net8.0\Lista de exercicios 1.runtimeconfig.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\bin\Debug\net8.0\Lista de exercicios 1.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\bin\Debug\net8.0\Lista de exercicios 1.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\Lista de exercicios 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\Lista de exercicios 1.AssemblyInfoInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\Lista de exercicios 1.AssemblyInfo.cs
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\Lista de exercicios 1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\Lista de exercicios 1.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\refint\Lista de exercicios 1.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\Lista de exercicios 1.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\Lista de exercicios 1.genruntimeconfig.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\obj\Debug\net8.0\ref\Lista de exercicios 1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Questão 4 Tornado/1.0.0": {
+        "runtime": {
+          "Questão 4 Tornado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Questão 4 Tornado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

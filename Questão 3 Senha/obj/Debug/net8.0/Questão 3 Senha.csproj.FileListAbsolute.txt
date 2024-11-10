@@ -1,0 +1,14 @@
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\bin\Debug\net8.0\Questão 3 Senha.exe
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\bin\Debug\net8.0\Questão 3 Senha.deps.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\bin\Debug\net8.0\Questão 3 Senha.runtimeconfig.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\bin\Debug\net8.0\Questão 3 Senha.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\bin\Debug\net8.0\Questão 3 Senha.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\Questão 3 Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\Questão 3 Senha.AssemblyInfoInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\Questão 3 Senha.AssemblyInfo.cs
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\Questão 3 Senha.csproj.CoreCompileInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\Questão 3 Senha.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\refint\Questão 3 Senha.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\Questão 3 Senha.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\Questão 3 Senha.genruntimeconfig.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 1\Questão 3 Senha\obj\Debug\net8.0\ref\Questão 3 Senha.dll
